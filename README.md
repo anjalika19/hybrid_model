@@ -1,1 +1,2 @@
-Research paper on developing a new hybrid model utilizing Decision Trees and Convolutional Neural Networks to combat credit card fraud. Please read the research paper for detailed information.
+- Developed a hybrid model using Decision Trees and CNN to more efficiently solve the problem of credit card fraud detection.
+- 
